@@ -25,4 +25,10 @@
   * Make this file html5 complaint
   * The layout must be displayed on three columns, don't add new classes.
   * Insert css using a style tag on the head.
+* 4-BadCenterElements.html
+  * Make this file html5 complaint
+  * The text must be centered the width must be 700px, don't add new classes.
+  * Center h1, table and image to center
+  * Image must be a padding of 15px from top and botton elements
+  * Insert css using a style tag on the head.
   
