@@ -19,4 +19,10 @@
 * 2-BadLayoutTwoColumns
   * Make this file html5 complaint
   * The layout must be displayed on two columns, don't add new classes.
+  * It each columns must be 350px, and be centered.
   * Insert css using a style tag on the head.
+* 3-BadThreeColumns
+  * Make this file html5 complaint
+  * The layout must be displayed on three columns, don't add new classes.
+  * Insert css using a style tag on the head.
+  
