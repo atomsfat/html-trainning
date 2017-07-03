@@ -12,7 +12,11 @@
 
 
 ## Exercises
-* BadLayoutOneColumn.html
-  * Make this file html5 complain
-  * The text must be centered the width must be 700px
-
+* 1-BadLayoutOneColumn.html
+  * Make this file html5 complaiant
+  * The text must be centered the width must be 700px, don't add new classes;
+  * Insert css using a style tag on the head.
+* 2-BadLayoutTwoColumns
+  * Make this file html5 complaint
+  * The layout must be displayed on two columns, don't add new classes.
+  * Insert css using a style tag on the head.
