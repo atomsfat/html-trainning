@@ -31,10 +31,11 @@
   * Center h1, table and image to center
   * Image must be a padding of 15px from top and botton elements
   * Insert css using a style tag on the head.
-* -BadSelectors.html
+* 5-BadSelectors.html
   * Each paragraph must be in the color indicated by the class
   * Use child selector to make color combinations
   * Use id = nocolor to avoid colors
   * Use pseudo class to make link Green, when visited Pink, on hover Orange and in active Blue.
 
-  
+ * 6-BadText
+  * The html must be centered as in exercise 1, follow indications on html
